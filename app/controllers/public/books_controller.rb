@@ -1,7 +1,10 @@
 class Public::BooksController < ApplicationController
 
   def index
-    # @books = Book.all
+    # @book = Book.all
+  end
+  
+  def edit
   end
 
 end
